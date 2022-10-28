@@ -336,6 +336,14 @@
         "practices": [],
         "prerequisites": [],
         "difficulty": 3
+      },
+      {
+        "slug": "affine-cipher",
+        "name": "Affine Cipher",
+        "uuid": "85dae1ac-f9e5-411d-920e-bfa988c49876",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 5
       }
     ]
   },
